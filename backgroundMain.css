@@ -1,0 +1,18 @@
+body{
+    background: url(Thousand.jpg);
+    background-position: center;
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.position {
+  position: absolute;
+  right: 70%;
+  top: 20%;
+ background-attachment: fixed;
+} 
